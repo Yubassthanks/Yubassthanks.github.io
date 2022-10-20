@@ -9,6 +9,10 @@ ul {
 list-style: none;
 }
 
+embed {
+    display: none;
+}
+
 header{
     width: 100vw;
     height: 20vw;
@@ -16,7 +20,7 @@ header{
     justify-content: space-between;
     align-items: center;
     background-color: aqua;
-    border-radius: 25px 25px 0px 0px;
+    border-radius: 0px 0px 5px 5px;
 }
 
 .profile{
